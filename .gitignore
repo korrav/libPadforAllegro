@@ -1,0 +1,10 @@
+signoise.run
+*.copy
+*.log
+*.jrl
+*.jrl,1
+*.lck
+*log,[1-9]
+*.SAV
+*.dmp
+*.tag
